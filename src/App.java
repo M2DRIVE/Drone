@@ -10,6 +10,6 @@ class App {
         //     }
         // });
 
-        new Remote().setVisible(true);;
+        new Remote();
     }
 }
